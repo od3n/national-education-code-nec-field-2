@@ -1,0 +1,398 @@
+[
+    {
+        "code":10,
+        "field":"Basic / broad, general programmes"
+    },
+    {
+        "code":80,
+        "field":"Literacy and Numeracy"
+    },
+    {
+        "code":90,
+        "field":"Personal Skills"
+    },
+    {
+        "code":140,
+        "field":"Teacher training and education science (Broad progammes)"
+    },
+    {
+        "code":141,
+        "field":"Teaching and Training"
+    },
+    {
+        "code":142,
+        "field":"Education science"
+    },
+    {
+        "code":143,
+        "field":"Training for preschool teachers"
+    },
+    {
+        "code":144,
+        "field":"Training for teachers at basic levels"
+    },
+    {
+        "code":145,
+        "field":"Training for teachers with subject specialisation"
+    },
+    {
+        "code":146,
+        "field":"Training for teachers of vocational subjects"
+    },
+    {
+        "code":210,
+        "field":"Arts (broad programmes)"
+    },
+    {
+        "code":211,
+        "field":"Fine Arts"
+    },
+    {
+        "code":212,
+        "field":"Music and Performing Arts"
+    },
+    {
+        "code":213,
+        "field":"Audio-visual techniques and media production"
+    },
+    {
+        "code":214,
+        "field":"Design"
+    },
+    {
+        "code":215,
+        "field":"Craft Skills"
+    },
+    {
+        "code":220,
+        "field":"Humanities (broad programmes)"
+    },
+    {
+        "code":221,
+        "field":"Religion"
+    },
+    {
+        "code":222,
+        "field":"Languages"
+    },
+    {
+        "code":223,
+        "field":"National Language"
+    },
+    {
+        "code":224,
+        "field":"Other Languages"
+    },
+    {
+        "code":225,
+        "field":"History and Archaelogy"
+    },
+    {
+        "code":226,
+        "field":"Philosophy and Ethics"
+    },
+    {
+        "code":227,
+        "field":"History, philosophy and related subjects"
+    },
+    {
+        "code":310,
+        "field":"Social and Behavioural Science"
+    },
+    {
+        "code":311,
+        "field":"Psychology"
+    },
+    {
+        "code":312,
+        "field":"Sociology and Cultural Studies"
+    },
+    {
+        "code":313,
+        "field":"Political science and civics"
+    },
+    {
+        "code":314,
+        "field":"Economics"
+    },
+    {
+        "code":321,
+        "field":"Journalism and reporting"
+    },
+    {
+        "code":322,
+        "field":"Library, information, archive"
+    },
+    {
+        "code":340,
+        "field":"Business and Administration"
+    },
+    {
+        "code":341,
+        "field":"Wholesale and retail sales"
+    },
+    {
+        "code":342,
+        "field":"Marketing and Advertising"
+    },
+    {
+        "code":343,
+        "field":"Finance, banking, insurance"
+    },
+    {
+        "code":344,
+        "field":"Accounting and Taxation"
+    },
+    {
+        "code":345,
+        "field":"Management and Administration"
+    },
+    {
+        "code":346,
+        "field":"Secretarial and office work"
+    },
+    {
+        "code":347,
+        "field":"Working Life"
+    },
+    {
+        "code":380,
+        "field":"Law"
+    },
+    {
+        "code":381,
+        "field":"Syariah Law"
+    },
+    {
+        "code":421,
+        "field":"Biology and biochemistry"
+    },
+    {
+        "code":422,
+        "field":"Environmental Science"
+    },
+    {
+        "code":440,
+        "field":"Physical Science (broad programmes)"
+    },
+    {
+        "code":441,
+        "field":"Physics"
+    },
+    {
+        "code":442,
+        "field":"Chemistry"
+    },
+    {
+        "code":443,
+        "field":"Earth Science"
+    },
+    {
+        "code":461,
+        "field":"Mathematics"
+    },
+    {
+        "code":462,
+        "field":"Statistics"
+    },
+    {
+        "code":481,
+        "field":"Computer Science"
+    },
+    {
+        "code":482,
+        "field":"Computer Use"
+    },
+    {
+        "code":520,
+        "field":"Engineering and engineering trades (broad programmes)"
+    },
+    {
+        "code":521,
+        "field":"Mechanics and Metal Work"
+    },
+    {
+        "code":522,
+        "field":"Electricity and Energy"
+    },
+    {
+        "code":523,
+        "field":"Electronis and Automation"
+    },
+    {
+        "code":524,
+        "field":"Chemical and Process"
+    },
+    {
+        "code":525,
+        "field":"Motor vehicles, ships and aircraft"
+    },
+    {
+        "code":526,
+        "field":"Civil Engineering"
+    },
+    {
+        "code":527,
+        "field":"Material Engineering"
+    },
+    {
+        "code":540,
+        "field":"Manufacturing and processing (broad programmes)"
+    },
+    {
+        "code":541,
+        "field":"Food Processing"
+    },
+    {
+        "code":542,
+        "field":"Textiles, clothes, footwear and leather"
+    },
+    {
+        "code":543,
+        "field":"Materials (wood, paper, plastic and glass)"
+    },
+    {
+        "code":544,
+        "field":"Mining and extraction"
+    },
+    {
+        "code":545,
+        "field":"Applied science"
+    },
+    {
+        "code":581,
+        "field":"Architecture and town planning"
+    },
+    {
+        "code":582,
+        "field":"Building"
+    },
+    {
+        "code":620,
+        "field":"Agriculture, forestry and fishery (broad programmes)"
+    },
+    {
+        "code":621,
+        "field":"Crop and livestock production"
+    },
+    {
+        "code":622,
+        "field":"Horticulture"
+    },
+    {
+        "code":623,
+        "field":"Forestry"
+    },
+    {
+        "code":624,
+        "field":"Fisheries"
+    },
+    {
+        "code":640,
+        "field":"Veterinary"
+    },
+    {
+        "code":720,
+        "field":"Health (broad programmes)"
+    },
+    {
+        "code":721,
+        "field":"Medicine"
+    },
+    {
+        "code":722,
+        "field":"Medical Services"
+    },
+    {
+        "code":723,
+        "field":"Nursing and caring"
+    },
+    {
+        "code":724,
+        "field":"Dental Studies"
+    },
+    {
+        "code":725,
+        "field":"Medical diagnostic and treatment technology"
+    },
+    {
+        "code":726,
+        "field":"Therapy and rehabilitation"
+    },
+    {
+        "code":727,
+        "field":"Pharmacy"
+    },
+    {
+        "code":761,
+        "field":"Child care and youth services"
+    },
+    {
+        "code":762,
+        "field":"Social work and counselling"
+    },
+    {
+        "code":810,
+        "field":"Personal services (broad programmes)"
+    },
+    {
+        "code":811,
+        "field":"Hotel, restaurant and catering"
+    },
+    {
+        "code":812,
+        "field":"Travel, tourism and leisure"
+    },
+    {
+        "code":813,
+        "field":"Sports"
+    },
+    {
+        "code":814,
+        "field":"Domestic Services"
+    },
+    {
+        "code":815,
+        "field":"Hair and beauty services"
+    },
+    {
+        "code":840,
+        "field":"Transport services"
+    },
+    {
+        "code":850,
+        "field":"Environmental protection (broad programmes)"
+    },
+    {
+        "code":851,
+        "field":"Environmental protection technology"
+    },
+    {
+        "code":852,
+        "field":"Natural environments and wildlife"
+    },
+    {
+        "code":853,
+        "field":"Community sanitation services"
+    },
+    {
+        "code":860,
+        "field":"Security services (broad programmes)"
+    },
+    {
+        "code":861,
+        "field":"Protection of persons and property"
+    },
+    {
+        "code":862,
+        "field":"Occupational health and safety"
+    },
+    {
+        "code":863,
+        "field":"Military and defence"
+    },
+    {
+        "code":900,
+        "field":"Engineering Technology"
+    }
+]
